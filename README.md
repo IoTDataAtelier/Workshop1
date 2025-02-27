@@ -5,3 +5,4 @@
 - Diego
 - Victor Araújo
 - Henrique Franca
+- Rayssa
