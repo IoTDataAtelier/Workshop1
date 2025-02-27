@@ -6,6 +6,3 @@
 - Victor Araújo
 - Henrique Franca
 - Rayssa
-
-
-
