@@ -1,4 +1,4 @@
-# **AtelierFlow** 
+# **🖌️AtelierFlow** 
 
 - João Lucas  
-- **Feature:** Init Readme
+- Isadora Vitória
