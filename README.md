@@ -7,3 +7,6 @@
 - Henrique Franca
 - Rayssa
 - Gil Araújo :punch:
+
+## Methodology
+ [What exactly is supposed to be here?]: # 
